@@ -1,0 +1,11 @@
+# Thư viện GUI
+PySide6>=6.4.0
+
+# Thư viện xử lý ảnh
+Pillow>=9.3.0
+rembg>=2.0.30
+
+# Các thư viện phụ thuộc của rembg
+numpy>=1.23.0
+onnxruntime>=1.13.1
+opencv-python>=4.6.0
